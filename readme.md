@@ -1,5 +1,7 @@
 # Social Media Sentiment Analysis
 
+![SOCIAL MEDIA SENTIMENT](visuals/SENTIMENT_DISTRIBUTION_OF_SOCIAL_MEDIA_POSTS_OVER_TIME.png)
+
 ## Overview
 This project aims to analyze social media sentiment by collecting tweets, performing sentiment analysis, and refining the model to improve accuracy. Due to recent changes in Twitter's API access, synthetic data is used for this project.
 
